@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577015689542",
+    "project_id": "managefinance-2640d",
+    "storage_bucket": "managefinance-2640d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577015689542:android:ff40be466bbfba37f2b547",
+        "android_client_info": {
+          "package_name": "com.example.app_manager_finance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZ_bHyl8Thtux4AxixdkwRdxCekAh7Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
